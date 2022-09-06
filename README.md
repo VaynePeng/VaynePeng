@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=VaynePeng&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <!--
 **VaynePeng/VaynePeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
